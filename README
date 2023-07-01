@@ -4,3 +4,5 @@ v1 - simple game
 
 
 v2 - added game winner checker
+
+v3 - added a wonky GUI using threads and easygui
